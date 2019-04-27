@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrateur\Bureau\TP5_CBJ\OpenModbus_CBJ\bin\Debug\OpenModbus_CBJ.exe
+C:\Documents and Settings\Administrateur\Bureau\TP5_CBJ\OpenModbus_CBJ\bin\Debug\OpenModbus_CBJ.pdb
+C:\Documents and Settings\Administrateur\Bureau\TP5_CBJ\OpenModbus_CBJ\bin\Debug\OpenModbus_CBJ.xml
+C:\Documents and Settings\Administrateur\Bureau\TP5_CBJ\OpenModbus_CBJ\bin\Debug\Winsock Orcas.dll
+C:\Documents and Settings\Administrateur\Bureau\TP5_CBJ\OpenModbus_CBJ\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Bureau\TP5_CBJ\OpenModbus_CBJ\obj\Debug\OpenModbus_CBJ.Form1.resources
+C:\Documents and Settings\Administrateur\Bureau\TP5_CBJ\OpenModbus_CBJ\obj\Debug\OpenModbus_CBJ.Resources.resources
+C:\Documents and Settings\Administrateur\Bureau\TP5_CBJ\OpenModbus_CBJ\obj\Debug\OpenModbus_CBJ.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrateur\Bureau\TP5_CBJ\OpenModbus_CBJ\obj\Debug\OpenModbus_CBJ.exe
+C:\Documents and Settings\Administrateur\Bureau\TP5_CBJ\OpenModbus_CBJ\obj\Debug\OpenModbus_CBJ.xml
+C:\Documents and Settings\Administrateur\Bureau\TP5_CBJ\OpenModbus_CBJ\obj\Debug\OpenModbus_CBJ.pdb
+D:\Bibliothèques\Documents\Etudes\Licence\Série de TP n°1\TP5_CBJ\OpenModbus_CBJ\obj\Debug\OpenModbus_CBJ.exe
+D:\Bibliothèques\Documents\Etudes\Licence\Série de TP n°1\TP5_CBJ\OpenModbus_CBJ\obj\Debug\OpenModbus_CBJ.xml
+D:\Bibliothèques\Documents\Etudes\Licence\Série de TP n°1\TP5_CBJ\OpenModbus_CBJ\obj\Debug\OpenModbus_CBJ.pdb
